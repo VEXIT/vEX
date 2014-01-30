@@ -1,0 +1,14 @@
+C:\Projects\Job Search Network\Web\vEX\bin\Release\vEX.dll
+C:\Projects\Job Search Network\Web\vEX\bin\Release\vEX.pdb
+C:\Projects\Job Search Network\Web\vEX\bin\Release\vEX.DataAccess.dll
+C:\Projects\Job Search Network\Web\vEX\bin\Release\vEX.DataAccess.pdb
+C:\Projects\Job Search Network\Web\vEX\obj\Release\vEX.dll
+C:\Projects\Job Search Network\Web\vEX\obj\Release\vEX.pdb
+C:\Projects\JSN\Web\vEX\bin\Release\vEX.dll
+C:\Projects\JSN\Web\vEX\bin\Release\vEX.pdb
+C:\Projects\JSN\Web\vEX\obj\Release\vEX.dll
+C:\Projects\JSN\Web\vEX\obj\Release\vEX.pdb
+C:\Projects\JSN\Web\jsn 1.2 - Responsive\vEX\bin\Release\vEX.dll
+C:\Projects\JSN\Web\jsn 1.2 - Responsive\vEX\bin\Release\vEX.pdb
+C:\Projects\JSN\Web\jsn 1.2 - Responsive\vEX\obj\Release\vEX.dll
+C:\Projects\JSN\Web\jsn 1.2 - Responsive\vEX\obj\Release\vEX.pdb

@@ -1,0 +1,10 @@
+C:\Projects\Job Search Network\Web\vEX\bin\Debug\vEX.dll
+C:\Projects\Job Search Network\Web\vEX\bin\Debug\vEX.pdb
+C:\Projects\Job Search Network\Web\vEX\obj\Debug\vEX.dll
+C:\Projects\Job Search Network\Web\vEX\obj\Debug\vEX.pdb
+C:\Projects\JSN\Web\vEX\bin\Debug\vEX.dll
+C:\Projects\JSN\Web\vEX\bin\Debug\vEX.pdb
+C:\Projects\JSN\Web\vEX\bin\Debug\vEX.DataAccess.dll
+C:\Projects\JSN\Web\vEX\bin\Debug\vEX.DataAccess.pdb
+C:\Projects\JSN\Web\vEX\obj\Debug\vEX.dll
+C:\Projects\JSN\Web\vEX\obj\Debug\vEX.pdb
